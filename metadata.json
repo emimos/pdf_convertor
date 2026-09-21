@@ -1,0 +1,6 @@
+{
+  "name": "Image to PDF Converter",
+  "description": "Convert images to PDF documents using Python with page layout controls, image reordering, and downloadable Python code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
